@@ -8,3 +8,5 @@ Milena Sapunova
 kouasi iv
 Boyan Abdo
 Nikola Pamukov
+KalinGeorgiev
+MartinLachev
