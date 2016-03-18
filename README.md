@@ -3,4 +3,4 @@ You can add your names here.
 Denis Duev
 Daniel Zlatkov
 Evgeniya Lyubomirova
-Kouasi iv
+Panayot Gindev
