@@ -10,3 +10,4 @@ Boyan Abdo
 Nikola Pamukov
 KalinGeorgiev
 MartinLachev
+Maria Vardalieva
