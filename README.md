@@ -11,3 +11,4 @@ Nikola Pamukov
 KalinGeorgiev
 MartinLachev
 Maria Vardalieva
+Osiris
